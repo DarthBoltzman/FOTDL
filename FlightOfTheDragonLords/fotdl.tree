@@ -4,9 +4,9 @@
 
 <instance-profile id="fotdl"
                  name="Flight of The Dragon Lords"
-                 start-page="starter.md">
+                 start-page="flight_of_the_dragon_lords.md">
 
-    <toc-element topic="starter.md">
+    <toc-element topic="flight_of_the_dragon_lords.md">
         <toc-element topic="The-Outlanders.topic">
             <toc-element topic="Mimir-Brokkr.topic"/>
             <toc-element topic="Jaesk-Sanclifter.topic"/>
@@ -16,7 +16,9 @@
         </toc-element>
         <toc-element topic="Locations.topic">
             <toc-element topic="Phandolin.topic"/>
+            <toc-element topic="Tidecrest.topic"/>
         </toc-element>
+        <toc-element topic="Characters.topic"/>
+        <toc-element topic="Monster-Compendium.topic"/>
     </toc-element>
-    <toc-element topic="Tidecrest.topic"/>
 </instance-profile>

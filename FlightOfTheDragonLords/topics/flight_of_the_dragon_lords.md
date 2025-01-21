@@ -1,4 +1,4 @@
-# Starter
+# Flight of the Dragon Lords
 
 <!--FlightOfTheDragonLords adds this topic when you create a new documentation project.
 You can use it as a sandbox to play with FlightOfTheDragonLords features, and remove it from the TOC when you don't need it anymore.-->
