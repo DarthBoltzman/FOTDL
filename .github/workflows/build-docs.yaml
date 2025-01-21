@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'Writerside/fotdl'
+  INSTANCE: 'FlightOfTheDragonLords/fotdl'
   DOCKER_VERSION: '243.22562'
 
 jobs:
