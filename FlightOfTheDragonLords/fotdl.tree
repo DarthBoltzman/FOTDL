@@ -7,6 +7,8 @@
                  start-page="starter.md">
 
     <toc-element topic="starter.md">
-        <toc-element topic="The-Outlanders.topic"/>
+        <toc-element topic="The-Outlanders.topic">
+            <toc-element topic="Mimir-Brokkr.topic"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
