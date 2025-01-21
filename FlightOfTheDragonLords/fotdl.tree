@@ -9,6 +9,14 @@
     <toc-element topic="starter.md">
         <toc-element topic="The-Outlanders.topic">
             <toc-element topic="Mimir-Brokkr.topic"/>
+            <toc-element topic="Jaesk-Sanclifter.topic"/>
+            <toc-element topic="Brother-Ethelbert.topic"/>
+            <toc-element topic="Petyr-Chesnov.topic"/>
+            <toc-element topic="Shawna.topic"/>
+        </toc-element>
+        <toc-element topic="Locations.topic">
+            <toc-element topic="Tidecrest.topic"/>
         </toc-element>
     </toc-element>
+    <toc-element topic="Phandolin.topic"/>
 </instance-profile>
