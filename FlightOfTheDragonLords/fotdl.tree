@@ -6,5 +6,7 @@
                  name="Flight of The Dragon Lords"
                  start-page="starter.md">
 
-    <toc-element topic="starter.md"/>
+    <toc-element topic="starter.md">
+        <toc-element topic="The-Outlanders.topic"/>
+    </toc-element>
 </instance-profile>
