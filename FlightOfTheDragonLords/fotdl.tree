@@ -15,8 +15,8 @@
             <toc-element topic="Shawna.topic"/>
         </toc-element>
         <toc-element topic="Locations.topic">
-            <toc-element topic="Tidecrest.topic"/>
+            <toc-element topic="Phandolin.topic"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Phandolin.topic"/>
+    <toc-element topic="Tidecrest.topic"/>
 </instance-profile>
