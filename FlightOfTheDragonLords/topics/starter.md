@@ -6,8 +6,6 @@ You can use it as a sandbox to play with FlightOfTheDragonLords features, and re
 ## Add new topics
 You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
 
-![Create new topic options](new_topic_options.png){ width=290 }{border-effect=line}
-
 ## Write content
 %product% supports two types of markup: Markdown and XML.
 When you create a new help article, you can choose between two topic types, but this doesn't mean you have to stick to a single format.
@@ -19,7 +17,6 @@ For example, this is how you inject a procedure:
 <procedure title="Inject a procedure" id="inject-a-procedure">
     <step>
         <p>Start typing and select a procedure type from the completion suggestions:</p>
-        <img src="completion_procedure.png" alt="completion suggestions for procedure" border-effect="line"/>
     </step>
     <step>
         <p>Press <shortcut>Tab</shortcut> or <shortcut>Enter</shortcut> to insert the markup.</p>
@@ -54,8 +51,6 @@ but you can modify the behavior by adding the following attribute:
 If you need to extend an element with more functions, you can convert selected content from Markdown to semantic markup.
 For example, if you want to merge cells in a table, it's much easier to convert it to XML than do this in Markdown.
 Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut>:
-
-<img src="convert_table_to_xml.png" alt="Convert table to XML" width="706" border-effect="line"/>
 
 ## Feedback and support
 Please report any issues, usability improvements, or feature requests to our
