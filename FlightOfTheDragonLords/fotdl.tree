@@ -13,12 +13,84 @@
             <toc-element topic="Brother-Ethelbert.topic"/>
             <toc-element topic="Petyr-Chesnov.topic"/>
             <toc-element topic="Shawna.topic"/>
+            <toc-element topic="Ajax.topic"/>
         </toc-element>
         <toc-element topic="Locations.topic">
-            <toc-element topic="Phandolin.topic"/>
+            <toc-element topic="Faerun.topic"/>
+            <toc-element topic="Cragmaw-Castle.topic"/>
+            <toc-element topic="Phandalin.topic">
+                <toc-element topic="Barthens-Provisions.topic"/>
+                <toc-element topic="Smithy.topic"/>
+                <toc-element topic="Stonhill-Inn.topic"/>
+                <toc-element topic="Shrine-of.topic"/>
+                <toc-element topic="Iarno-s-Office.topic"/>
+                <toc-element topic="Tresendar-Manner.topic"/>
+                <toc-element topic="Wood-Worker.topic"/>
+                <toc-element topic="Miner-s-Exchange.topic"/>
+            </toc-element>
             <toc-element topic="Tidecrest.topic"/>
         </toc-element>
-        <toc-element topic="Characters.topic"/>
-        <toc-element topic="Monster-Compendium.topic"/>
+        <toc-element topic="Characters.topic">
+            <toc-element topic="Raydoth.topic"/>
+            <toc-element topic="Nagru.topic"/>
+            <toc-element topic="Chamina.topic"/>
+            <toc-element topic="Torla.topic"/>
+            <toc-element topic="Kit.topic"/>
+            <toc-element topic="Grol.topic"/>
+            <toc-element topic="Vyerith.topic"/>
+            <toc-element topic="Gundren-Rockseeker.topic"/>
+            <toc-element topic="Fardin-Rockseeker.topic"/>
+            <toc-element topic="Nundo-Rockseeker.topic"/>
+            <toc-element topic="Tessly-Yuss.topic"/>
+            <toc-element topic="Firfthmor.topic"/>
+            <toc-element topic="Illaren-Whizmet.topic"/>
+            <toc-element topic="Master-Guldus.topic"/>
+            <toc-element topic="Elbert.topic"/>
+            <toc-element topic="Thom.topic"/>
+            <toc-element topic="Captain-Xilno.topic"/>
+            <toc-element topic="Kellen-Alderleaf.topic"/>
+            <toc-element topic="Aldith-Tresendar.topic"/>
+            <toc-element topic="Fel.topic"/>
+            <toc-element topic="Mirna.topic"/>
+            <toc-element topic="Barthen.topic"/>
+            <toc-element topic="Leneen.topic"/>
+            <toc-element topic="Halia-Thorn.topic"/>
+            <toc-element topic="Elsa.topic"/>
+            <toc-element topic="Daren.topic"/>
+            <toc-element topic="Pip.topic"/>
+            <toc-element topic="Toblin-Stonehill.topic"/>
+            <toc-element topic="Harbin-Wester.topic"/>
+            <toc-element topic="Sister-Garille.topic"/>
+            <toc-element topic="Sgt-Vilna-Lightwing.topic"/>
+            <toc-element topic="Bardock.topic"/>
+            <toc-element topic="Sildar-Halwinter.topic"/>
+            <toc-element topic="Glass-Staff-Iarno.topic"/>
+            <toc-element topic="Grista.topic"/>
+            <toc-element topic="Black-Spider.topic"/>
+            <toc-element topic="Bahamet.topic"/>
+            <toc-element topic="Tiamat.topic"/>
+            <toc-element topic="Sharruth.topic"/>
+            <toc-element topic="Balgruff.topic"/>
+            <toc-element topic="Draga.topic"/>
+        </toc-element>
+        <toc-element topic="Monster-Compendium.topic">
+            <toc-element topic="Young-Green-Dragon.topic"/>
+            <toc-element topic="Goblin.topic"/>
+            <toc-element topic="Orc.topic"/>
+            <toc-element topic="Hobgoblin.topic"/>
+            <toc-element topic="Fire-Skull.topic"/>
+            <toc-element topic="Greater-Fire-Snake.topic"/>
+            <toc-element topic="Black-Abishai.topic"/>
+            <toc-element topic="Hell-Hound.topic"/>
+            <toc-element topic="Troll.topic"/>
+        </toc-element>
+        <toc-element topic="Organizations.topic">
+            <toc-element topic="Shackled-Legion.topic"/>
+            <toc-element topic="Red-Brands.topic"/>
+            <toc-element topic="Lords-Alliance.topic"/>
+        </toc-element>
+        <toc-element topic="The-Spell-Book.topic">
+            <toc-element topic="Shawna-s-Blessing.topic"/>
+        </toc-element>
     </toc-element>
 </instance-profile>

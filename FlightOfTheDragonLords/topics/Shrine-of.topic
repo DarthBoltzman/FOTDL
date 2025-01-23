@@ -3,9 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Mimir Brokkr" id="Mimir-Brokkr">
+       title="Shrine of " id="Shrine-of">
 
-    <img alt="mimir_brokkr_starting_image.png" src="mimir_brokkr_starting_image.png"/>
-    <img alt="mimir_lvl_3.png" src="mimir_lvl_3.png"/>
     <p>Start typing here...</p>
 </topic>
