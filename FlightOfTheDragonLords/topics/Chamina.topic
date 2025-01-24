@@ -4,6 +4,9 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Chamina" id="Chamina">
+    <primary-label ref="faction_druids_of_neverwinter"/>
+    <secondary-label ref="class_druid"/>
+    <secondary-label ref="race_elf"/>
     <img alt="chamina.png" src="chamina.png"/>
     <p>Start typing here...</p>
 </topic>
