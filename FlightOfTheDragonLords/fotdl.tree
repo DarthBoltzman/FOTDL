@@ -4,9 +4,9 @@
 
 <instance-profile id="fotdl"
                  name="Flight of The Dragon Lords"
-                 start-page="flight_of_the_dragon_lords.md">
+                 start-page="flight_of_the_dragon_lords.topic">
 
-    <toc-element topic="flight_of_the_dragon_lords.md">
+    <toc-element topic="flight_of_the_dragon_lords.topic">
         <toc-element topic="The-Outlanders.topic">
             <toc-element topic="Mimir-Brokkr.topic"/>
             <toc-element topic="Jaesk-Sanclifter.topic"/>
@@ -16,9 +16,11 @@
             <toc-element topic="Ajax.topic"/>
         </toc-element>
         <toc-element topic="Locations.topic">
+            <toc-element topic="Ravnica.topic"/>
             <toc-element topic="Faerun.topic"/>
             <toc-element topic="Cragmaw-Castle.topic"/>
             <toc-element topic="Phandalin.topic">
+                <toc-element topic="Forge-of-Spells.topic"/>
                 <toc-element topic="Barthens-Provisions.topic"/>
                 <toc-element topic="Smithy.topic"/>
                 <toc-element topic="Stonhill-Inn.topic"/>
@@ -74,6 +76,7 @@
             <toc-element topic="Draga.topic"/>
         </toc-element>
         <toc-element topic="Monster-Compendium.topic">
+            <toc-element topic="Nothic.topic"/>
             <toc-element topic="Young-Green-Dragon.topic"/>
             <toc-element topic="Goblin.topic"/>
             <toc-element topic="Orc.topic"/>
@@ -92,5 +95,7 @@
         <toc-element topic="The-Spell-Book.topic">
             <toc-element topic="Shawna-s-Blessing.topic"/>
         </toc-element>
+        <toc-element topic="Session-Notes.topic"/>
     </toc-element>
+
 </instance-profile>

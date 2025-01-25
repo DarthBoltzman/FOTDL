@@ -8,8 +8,8 @@
     <img alt="goblin.png" src="goblin.png"/>
     <table>
         <tr>
-            <td>Strength</td><td>8</td>
-            <td>Intelligence</td><td>10</td>
+            <td>Strength</td><td></td>
+            <td>Intelligence</td><td></td>
 
         </tr>
     </table>

@@ -4,8 +4,35 @@
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Mimir Brokkr" id="Mimir-Brokkr">
-
-    <img alt="mimir_brokkr_starting_image.png" src="mimir_brokkr_starting_image.png"/>
-    <p>Start typing here...</p>
+    <chapter title="Journey's Beginning" collapsible="true" id="mimir_journey_beginning" default-state="expanded">
+        <img alt="mimir_brokkr_starting_image.png" src="mimir_brokkr_starting_image.png"/>
+        <p>
+            Mimir, Vedalken male, a stranger to this foreign realm of <a href="Faerun.topic"/>, brought here from
+            <a href="Ravnica.topic"/>, another dimension. Making the best of the situation he found the closest city of
+            Tidecrest and started researching this new realm that he is trapped in. Looking for reference to any
+            powerful magic or artifact that could send him home.
+        </p>
+        <p>
+            Finding reference to the <a href="Forge-of-Spells.topic"/>, Mimir decided to look for an adventuring party
+            that could take him there. He stumbled upon a job that was hiring an escort to <a href="Phandalin.topic"/>.
+            This seemed like a perfect opportunity to join an adventuring party.
+        </p>
+        <p>
+            Mimir joined a party, <a href="The-Outlanders.topic">Outlanders</a>, to help escort the group to <a
+                href="Phandalin.topic"/>. Attacked along the route by goblins, the escort job took a detour to retrieve
+            some kidnapped party members. After venturing north to recover the rest of the party, they ran into the
+            goblins' camp. After attempting to negotiate a coup with one of the lesser goblins in the camp, the goblin
+            became distrustful of the adventurers and attacked them. <a href="The-Outlanders.topic"/> quickly dispatched
+            of the attacking goblins and rescued <a href="Sildar-Halwinter.topic"/>, a member of the <a
+                href="Lords-Alliance.topic"/>
+        </p>
+        <p>
+            After dispatching the goblin camp, <a href="The-Outlanders.topic">the Outlanders</a> continued on to <a
+                href="Phandalin.topic"/>. Shorty arriving in the small frontier town they learned of a group of thugs
+            that have been harassing the townsfolk, the <a href="Red-Brands.topic"/>. The party was more than happy to
+            help rid the town of the group. Sneaking in through a secret back entrance to the cellar of <a
+                href="Tresendar-Manner.topic"/>
+        </p>
+    </chapter>
     <img alt="mimir_lvl_3.png" src="mimir_lvl_3.png"/>
 </topic>
