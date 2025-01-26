@@ -93,4 +93,30 @@
         <p>Mimir started working on the <a href="alchemist_fire_thrower.topic"/>. Crafted the flexible hose portion of
             the design.</p>
     </chapter>
+
+    <chapter title="Bordering the TMC Coast Runner">
+        <img alt="ship_tmc_coast_runner.png" src="ship_tmc_coast_runner.png"/>
+        <p>Boarded the TMC Coast Runner. Met Krill</p>
+        <p>Notified that he will not be joining the fight.</p>
+        <deflist>
+            <def title="Krill">
+                <img alt="krill.png" src="krill.png"/>
+                <p>Race: Locatha</p>
+                <p>Cook</p>
+            </def>
+        </deflist>
+    </chapter>
+
+    <chapter title="Travel Day 1">
+        <table style="none">
+            <tr>
+                <td>Ethelbert</td>
+                <td>Started work on Superior Potion of Healing</td>
+            </tr>
+            <tr>
+                <td>Mimir</td>
+                <td>Crafted the pump portion of the <a href="alchemist_fire_thrower.topic"/></td>
+            </tr>
+        </table>
+    </chapter>
 </topic>

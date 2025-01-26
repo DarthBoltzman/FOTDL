@@ -100,6 +100,9 @@
         <toc-element topic="The-Spell-Book.topic">
             <toc-element topic="Shawna-s-Blessing.topic"/>
         </toc-element>
+        <toc-element topic="Ships.topic">
+            <toc-element topic="TMC-Coast-Runner.topic"/>
+        </toc-element>
         <toc-element topic="mimir_designs_inc.topic">
             <toc-element topic="alchemist_fire_thrower.topic"/>
         </toc-element>
