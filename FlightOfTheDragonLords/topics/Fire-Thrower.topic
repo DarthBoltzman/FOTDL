@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Fire Thrower" id="Fire-Thrower">
+
+    <procedure title="Design Elements">
+        <deflist>
+            <def title="Fuel Reservoir">
+                A sturdy metal container that holds the Alchemist's Fire. It should be designed to withstand pressure
+                and prevent leaks.
+            </def>
+            <def title="Pump Mechanism">
+                A hand-operated pump that creates pressure in the fuel reservoir, forcing the Alchemist's Fire through a
+                nozzle.
+            </def>
+            <def title="Nozzle">
+                A narrow tube that directs the Alchemist's Fire toward the target. It should be made of heat-resistant
+                material to prevent it from melting.
+            </def>
+            <def title="Ignition System">
+                A flint and steel mechanism or a small magical flame that ignites the Alchemist's Fire as it exits the
+                nozzle.
+            </def>
+        </deflist>
+    </procedure>
+    <procedure title="Mechanics">
+        <deflist>
+            <def title="Loading the Fuel">
+                The Alchemist's Fire is carefully poured into the fuel reservoir, ensuring it is sealed tightly to avoid
+                any accidental ignitions.
+            </def>
+            <def title="Creating Pressure">
+                The adventurer operates the hand pump to create pressure inside the fuel reservoir. This pressure forces
+                the Alchemist's Fire through the nozzle when the trigger is pulled.
+            </def>
+            <def title="Ignition">
+                As the Alchemist's Fire exits the nozzle, it passes through the ignition system, igniting into a stream
+                of fire.
+            </def>
+            <def title="Aiming and Firing">
+                The adventurer aims the nozzle at the target and pulls the trigger, releasing a burst of flame.
+            </def>
+        </deflist>
+    </procedure>
+    <procedure title="Usage in Combat" type="choices">
+        <step>
+            The flamethrower can be used as a weapon to deal fire damage to enemies. It can create a line or cone of
+            fire, depending on the nozzle design.
+        </step>
+        <step>
+            The damage and range can be determined by the Dungeon Master (DM) based on the campaign's rules.
+        </step>
+        <step>
+            The flamethrower requires regular maintenance to ensure it remains functional and safe to use.
+        </step>
+    </procedure>
+    <img src="medieval flamethrower schematic.png" alt="medieval flamethrower schematic.png" thumbnail="true"/>
+    <img alt="fire_thrower_design.png" src="fire_thrower_design.png"/>
+</topic>

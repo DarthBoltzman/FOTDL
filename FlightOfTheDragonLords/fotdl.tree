@@ -16,6 +16,7 @@
             <toc-element topic="Ajax.topic"/>
         </toc-element>
         <toc-element topic="Locations.topic">
+            <toc-element topic="Quarter-Deck.topic"/>
             <toc-element topic="Ravnica.topic"/>
             <toc-element topic="Faerun.topic"/>
             <toc-element topic="Cragmaw-Castle.topic"/>
@@ -33,6 +34,7 @@
             <toc-element topic="Tidecrest.topic"/>
         </toc-element>
         <toc-element topic="Characters.topic">
+            <toc-element topic="Krill.topic"/>
             <toc-element topic="Raydoth.topic"/>
             <toc-element topic="Nagru.topic"/>
             <toc-element topic="Chamina.topic"/>
@@ -74,6 +76,8 @@
             <toc-element topic="Sharruth.topic"/>
             <toc-element topic="Balgruff.topic"/>
             <toc-element topic="Draga.topic"/>
+            <toc-element topic="Myra-Sailsetter.topic"/>
+            <toc-element topic="Zadekiel.topic"/>
         </toc-element>
         <toc-element topic="Monster-Compendium.topic">
             <toc-element topic="Nothic.topic"/>
@@ -95,7 +99,14 @@
         <toc-element topic="The-Spell-Book.topic">
             <toc-element topic="Shawna-s-Blessing.topic"/>
         </toc-element>
-        <toc-element topic="Session-Notes.topic"/>
+        <toc-element topic="Designs.topic">
+            <toc-element topic="Fire-Thrower.topic"/>
+        </toc-element>
+        <toc-element topic="journeys_notes.topic">
+            <toc-element topic="Cuarta.topic">
+                <toc-element topic="6-x.topic"/>
+            </toc-element>
+        </toc-element>
     </toc-element>
 
 </instance-profile>

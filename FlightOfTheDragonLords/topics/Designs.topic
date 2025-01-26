@@ -3,8 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Captain Xilno" id="Captain-Xilno">
+       title="Designs" id="Designs">
 
-    <img alt="captain_xilno.png" src="captain_xilno.png"/>
     <p>Start typing here...</p>
 </topic>

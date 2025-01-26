@@ -10,4 +10,8 @@
         <description>Created after removal of "Empty XML Topic" from Flight of The Dragon Lords</description>
         <accepts>Empty-XML-Topic.html</accepts>
     </rule>
+    <rule id="21c1c41f">
+        <description>Created after removal of "Xilno" from Flight of The Dragon Lords</description>
+        <accepts>Xilno.html</accepts>
+    </rule>
 </rules>
