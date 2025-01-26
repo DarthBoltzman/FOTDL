@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="5th of Cuarta to" id="5-x" help-id="6-x">
+
+    <chapter title="Arrive at Cothon" collapsible="true" default-state="expanded">
+        <p>See a single masted ship</p>
+        <p>Looks like a simple trader ship with bare necessities for defending itself</p>
+        <p>Notice a swivel ballista</p>
+        <note>
+            Time of day: early evening
+        </note>
+        <p>Conversation about how to take on any other ships if attacked at sea</p>
+        <p>Traverse the gangplank to the deck of the ship</p>
+        <p>Start calling out to see if any one is there</p>
+        <p>Hear someone from below call out</p>
+        <p>Looking for <a href="Captain-Xilno.topic"/> of the ship</p>
+        <p>They are out getting a drink at the <a href="Quarter-Deck.topic"/></p>
+    </chapter>
+
+    <chapter title="To the Quarter Deck" collapsible="true" default-state="expanded">
+        <p>Walk into the bar looking for <a href="Captain-Xilno.topic"/></p>
+        <p>Talk with <a href="Merric.topic"/> to see if </p>
+        <p>Ask if he knows anyone named <a href="Captain-Xilno.topic">Xilno</a></p>
+        <p>Indicates that he keeps some interesting company</p>
+        <deflist>
+            <def title="Xlino">
+                <img src="captain_xilno.png" alt=""/>
+                <p>Captain of the Ship</p>
+            </def>
+            <def title="Myra Sailsetter">
+                <img src="myra_sailsetter.png" alt=""/>
+                <p>First Mate</p>
+            </def>
+            <def title="Zadekiel">
+                <img src="zadekiel.png" alt=""/>
+                <p>Quartermaster</p>
+            </def>
+        </deflist>
+        <table>
+            <tr>
+                <td>Items to Bring</td>
+            </tr>
+            <tr>
+                <td>Food</td>
+            </tr>
+            <tr>
+                <td>Water</td>
+            </tr>
+            <tr>
+                <td>Clothes</td>
+            </tr>
+            <tr>
+                <td>Rope</td>
+            </tr>
+        </table>
+        <p>
+            They seem light on weapons for fighting back against the pirates.
+        </p>
+        <p>
+            Perhaps alchemist fire could be useful for the journey.
+        </p>
+        <p>
+            They seem like they just try to outrun them and the bigger pirates don't tend to come after them.
+        </p>
+        <p>
+            Cryptic motherfuckers...just say in morning rather than at high tide
+        </p>
+    </chapter>
+
+    <chapter title="Petyr's Wanderings" collapsible="true" default-state="expanded">
+        <img alt="mysterious_person.png" src="mysterious_person.png"/>
+        Shady conversation about returning lord has a troll to the town of Hybraxis
+    </chapter>
+
+    <chapter title="Mimir Workshop" collapsible="true" default-state="expanded">
+        <p>Mimir goes off to work on designs for how to protect the ship in the event of a pirate ship attack.</p>
+    </chapter>
+
+    <chapter title="Shopping Spree Part 2">
+        <p>Pick up <a href="Brother-Ethelbert.topic"> Ethelbert's</a> coat</p>
+        <p>Go to General Store and pickup</p>
+        <list>
+            <li>flasks of oil</li>
+            <li>cloth</li>
+        </list>
+    </chapter>
+
+    <chapter title="Crafting Time">
+        <p>Onsa crafts fire arrows</p>
+        <p>Mimir started working on the <a href="alchemist_fire_thrower.topic"/>. Crafted the flexible hose portion of
+            the design.</p>
+    </chapter>
+</topic>

@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Fire Thrower" id="Fire-Thrower">
+       title="Alchemist Fire Thrower" id="alchemist_fire_thrower" help-id="Fire-Thrower">
 
     <procedure title="Design Elements">
         <deflist>
@@ -57,7 +57,6 @@
         </step>
     </procedure>
     <img src="mounted_flame_thrower.png" alt="mounted flamethrower" thumbnail="true"/>
-    <img src="medieval flamethrower schematic.png" alt="medieval flamethrower schematic.png" thumbnail="true"/>
     <code-block>
         [ Fuel Reservoir ]
      /======================\
@@ -91,6 +90,6 @@
            /         \
          /             \
         /               \
-   (Ignition
+   (Ignition)
     </code-block>
 </topic>

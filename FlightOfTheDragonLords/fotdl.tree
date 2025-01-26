@@ -78,6 +78,7 @@
             <toc-element topic="Draga.topic"/>
             <toc-element topic="Myra-Sailsetter.topic"/>
             <toc-element topic="Zadekiel.topic"/>
+            <toc-element topic="Merric.topic"/>
         </toc-element>
         <toc-element topic="Monster-Compendium.topic">
             <toc-element topic="Nothic.topic"/>
@@ -99,12 +100,12 @@
         <toc-element topic="The-Spell-Book.topic">
             <toc-element topic="Shawna-s-Blessing.topic"/>
         </toc-element>
-        <toc-element topic="Designs.topic">
-            <toc-element topic="Fire-Thrower.topic"/>
+        <toc-element topic="mimir_designs_inc.topic">
+            <toc-element topic="alchemist_fire_thrower.topic"/>
         </toc-element>
         <toc-element topic="journeys_notes.topic">
             <toc-element topic="Cuarta.topic">
-                <toc-element topic="6-x.topic"/>
+                <toc-element topic="5-x.topic"/>
             </toc-element>
         </toc-element>
     </toc-element>
