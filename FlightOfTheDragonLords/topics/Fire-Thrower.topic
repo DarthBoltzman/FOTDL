@@ -56,6 +56,7 @@
             The flamethrower requires regular maintenance to ensure it remains functional and safe to use.
         </step>
     </procedure>
+    <img src="mounted_flame_thrower.png" alt="mounted flamethrower" thumbnail="true"/>
     <img src="medieval flamethrower schematic.png" alt="medieval flamethrower schematic.png" thumbnail="true"/>
     <code-block>
         [ Fuel Reservoir ]
