@@ -57,5 +57,39 @@
         </step>
     </procedure>
     <img src="medieval flamethrower schematic.png" alt="medieval flamethrower schematic.png" thumbnail="true"/>
-    <img alt="fire_thrower_design.png" src="fire_thrower_design.png"/>
+    <code-block>
+        [ Fuel Reservoir ]
+     /======================\
+    |========================|
+   ||                        ||
+   ||    Pressure Gauge      ||
+   ||       /===\            ||
+   ||      ( O )            ||
+   ||        \_/             ||
+   ||                        ||
+   ||    [Pump Mechanism]    ||
+   ||     ===      ===       ||
+   ||     |||      |||       ||
+   ||     |||      |||       ||
+    |      |||     |||        |
+     \     |||     |||       /
+      \====================/
+           /     ||     \
+          /      ||      \
+         /    [Flexible]  \
+        (      [Hose]      )
+         \       ||       /
+          \      ||      /
+           \     ||     /
+            \    ||    /
+             [Nozzle]
+             \========/
+                ||
+            ( Trigger )
+            \========/
+           /         \
+         /             \
+        /               \
+   (Ignition
+    </code-block>
 </topic>
