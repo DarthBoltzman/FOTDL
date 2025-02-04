@@ -5,6 +5,34 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Alchemist Fire Thrower" id="alchemist_fire_thrower" help-id="Fire-Thrower">
 
+    <note>
+        <p>
+            Action to load, action to fire.
+        </p>
+        <p>
+            2 people can operate at the same time.
+        </p>
+        <p>
+            THOR cannot fire the weapon, but can prime it.
+        </p>
+        <p>
+            Mimir is D20 + INT.
+        </p>
+        <p>
+            Everyone else is D20 + DEX.
+        </p>
+        <p>
+            3 D8 fire damage.
+        </p>
+        <p>
+            1 action to reload up to 4 rounds.
+        </p>
+    </note>
+
+    <warning>
+        Notify DM if there is a NAT 1 rolled.
+    </warning>
+
     <procedure title="Design Elements">
         <deflist>
             <def title="Fuel Reservoir">

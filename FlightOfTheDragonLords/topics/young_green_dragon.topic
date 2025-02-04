@@ -3,7 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Orc" id="Orc">
-    <img alt="orc.png" src="orc.png"/>
+       title="Young Green Dragon - Venom Fang" id="young_green_dragon" help-id="Young-Green-Dragon">
+
+    <img alt="venom_fang.png" src="venom_fang.png"/>
     <p>Start typing here...</p>
 </topic>

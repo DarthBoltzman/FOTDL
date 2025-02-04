@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="5th of Cuarta to" id="5-x" help-id="6-x">
+       title="5th of Cuarta to 8th of Cuarta" id="5-x" help-id="6-x">
 
     <chapter title="Arrive at Cothon" collapsible="true" default-state="expanded">
         <p>See a single masted ship</p>
@@ -27,15 +27,15 @@
         <p>Indicates that he keeps some interesting company</p>
         <deflist>
             <def title="Xlino">
-                <img src="captain_xilno.png" alt=""/>
+                <img src="captain_xilno.png" alt="Captain Xilno"/>
                 <p>Captain of the Ship</p>
             </def>
             <def title="Myra Sailsetter">
-                <img src="myra_sailsetter.png" alt=""/>
+                <img src="myra_sailsetter.png" alt="Myra Sailsetter"/>
                 <p>First Mate</p>
             </def>
             <def title="Zadekiel">
-                <img src="zadekiel.png" alt=""/>
+                <img src="zadekiel.png" alt="Zadekiel"/>
                 <p>Quartermaster</p>
             </def>
         </deflist>

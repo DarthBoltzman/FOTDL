@@ -3,7 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Hell Hound" id="Hell-Hound">
-    <img alt="hell_hound.png" src="hell_hound.png"/>
+       title="Greater Fire Snake" id="greater_fire_snake" help-id="Greater-Fire-Snake">
+
+    <img alt="greater_fire_snake.png" src="greater_fire_snake.png"/>
     <p>Start typing here...</p>
 </topic>

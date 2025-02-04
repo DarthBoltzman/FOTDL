@@ -81,16 +81,17 @@
             <toc-element topic="Merric.topic"/>
         </toc-element>
         <toc-element topic="Monster-Compendium.topic">
-            <toc-element topic="Nothic.topic"/>
-            <toc-element topic="Young-Green-Dragon.topic"/>
-            <toc-element topic="Goblin.topic"/>
-            <toc-element topic="Orc.topic"/>
+            <toc-element topic="Roc.topic"/>
+            <toc-element topic="nothic.topic"/>
+            <toc-element topic="young_green_dragon.topic"/>
+            <toc-element topic="goblin.topic"/>
+            <toc-element topic="orc.topic"/>
             <toc-element topic="Hobgoblin.topic"/>
-            <toc-element topic="Fire-Skull.topic"/>
-            <toc-element topic="Greater-Fire-Snake.topic"/>
-            <toc-element topic="Black-Abishai.topic"/>
-            <toc-element topic="Hell-Hound.topic"/>
-            <toc-element topic="Troll.topic"/>
+            <toc-element topic="flame_skull.topic"/>
+            <toc-element topic="greater_fire_snake.topic"/>
+            <toc-element topic="black_abishai.topic"/>
+            <toc-element topic="hell_hound.topic"/>
+            <toc-element topic="troll.topic"/>
         </toc-element>
         <toc-element topic="Factions.topic">
             <toc-element topic="Shackled-Legion.topic"/>
@@ -109,6 +110,7 @@
         <toc-element topic="journeys_notes.topic">
             <toc-element topic="Cuarta.topic">
                 <toc-element topic="5-x.topic"/>
+                <toc-element topic="8th-of-Cuarta-to.md"/>
             </toc-element>
         </toc-element>
     </toc-element>
