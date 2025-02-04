@@ -1,9 +1,1387 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
-<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns=""
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Monster Compendium" id="Monster-Compendium">
+    <show-structure depth="3"/>
+    <chapter title="Aberration" collapsible="true" default-state="collapsed">
+        <chapter title="Nothic" collapsible="true" default-state="collapsed">
+            <a href="nothic.topic"><img src="nothic.png" alt="nothic.png" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Beast" collapsible="true" default-state="collapsed">
 
-    <p>Start typing here...</p>
+    </chapter>
+    <chapter title="Celestial" collapsible="true" default-state="collapsed">
+
+    </chapter>
+    <chapter title="Construct" collapsible="true" default-state="collapsed">
+
+    </chapter>
+    <chapter title="Dragon" collapsible="true" default-state="collapsed">
+        <chapter title="Young Green Dragon - Venom Fang" collapsible="true">
+            <a href="young_green_dragon.topic"><img src="venom_fang.png" alt="Young Green Dragon" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Elemental" collapsible="true" default-state="collapsed">
+        <chapter title="Greater Fire Snake" collapsible="true" default-state="collapsed">
+            <a href="greater_fire_snake.topic"><img src="greater_fire_snake.png" alt="Greater Fire Snake" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Resistances</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Immunities</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Fey" collapsible="true" default-state="collapsed">
+
+    </chapter>
+    <chapter title="Fiend" collapsible="true" default-state="collapsed">
+        <chapter title="Black Abishai" collapsible="true" default-state="collapsed">
+            <a href="black_abishai.topic"><img src="black_abishai.png" alt="Black Abishai" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Resistances</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Immunities</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter title="Hell Hound" collapsible="true" default-state="collapsed">
+            <a href="hell_hound.topic"><img src="hell_hound.png" alt="Hell Hound" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Resistances</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Immunities</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Giant" collapsible="true" default-state="collapsed">
+        <chapter title="Troll" collapsible="true" default-state="collapsed">
+            <a href="troll.topic"><img src="troll.png" alt="Troll" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Resistances</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Immunities</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Humanoid" collapsible="true" default-state="collapsed">
+        <chapter title="Goblin" collapsible="true" default-state="collapsed">
+            <a href="goblin.topic"><img src="goblin.png" alt="goblin" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter title="Hobgoblin" collapsible="true" default-state="collapsed">
+            <a href="Hobgoblin.topic"><img src="hobgoblin.png" alt="Hobgoblin" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+        <chapter title="Orc" collapsible="true" default-state="collapsed">
+            <a href="orc.topic"><img src="orc.png" alt="Orc" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Monstrosity" collapsible="true" default-state="collapsed">
+        <chapter title="Roc">
+            <a href="Roc.topic"><img src="roc.png" alt="A mythical creature Roc.png" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>15 or lower</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly 120ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>+9</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>Beak</td>
+                    <td>+13</td>
+                    <td>5 ft</td>
+                    <td>39</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Talons</td>
+                    <td>?</td>
+                    <td>5 ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
+    <chapter title="Ooze" collapsible="true" default-state="collapsed">
+
+    </chapter>
+    <chapter title="Plant" collapsible="true" default-state="collapsed">
+
+    </chapter>
+    <chapter title="Undead" collapsible="true" default-state="collapsed">
+        <chapter title="Flame Skull" collapsible="true" default-state="collapsed">
+            <a href="flame_skull.topic"><img src="flame_skull.png" alt="Flameskull" width="200"/></a>
+            <table>
+                <tr>
+                    <td>AC</td>
+                    <td>Initiative</td>
+                    <td>HP</td>
+                    <td>Speed</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>?ft, Fly ?ft</td>
+                </tr>
+            </table>
+            <table style="none">
+                <tr>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Str</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Int</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Dex</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Wis</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table style="both">
+                            <tr>
+                                <td></td>
+                                <td>Mod</td>
+                                <td>Save</td>
+                            </tr>
+                            <tr>
+                                <td>Con</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                            <tr>
+                                <td>Char</td>
+                                <td>?</td>
+                                <td>?</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <table style="header-column">
+                <tr>
+                    <td width="15%">Skills</td>
+                    <td>Fucker doesn't die</td>
+                </tr>
+                <tr>
+                    <td>Resistances</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Immunities</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Senses</td>
+                    <td>?</td>
+                </tr>
+                <tr>
+                    <td>Languages</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td width="15%">Trait</td>
+                    <td>Description</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td>Actions</td>
+                    <td>Hit Bonus</td>
+                    <td>Reach</td>
+                    <td>Max Damage</td>
+                    <td>Damage Type</td>
+                </tr>
+                <tr>
+                    <td>?</td>
+                    <td>?</td>
+                    <td>? ft</td>
+                    <td>?</td>
+                    <td>?</td>
+                </tr>
+            </table>
+        </chapter>
+    </chapter>
 </topic>
