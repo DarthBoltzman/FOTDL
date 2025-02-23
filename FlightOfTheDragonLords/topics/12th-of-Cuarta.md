@@ -18,3 +18,13 @@ Conference called to be informed that during the next day of journey, there will
 
 ## Travel Day 9
 
+Caught by pirates...have to kill those guys
+
+![pirates_first_mate.png](pirates_first_mate.png)
+
+![pirate_captain.png](pirate_captain.png)
+
+![pirate_grunt.png](pirate_grunt.png)
+
+![shell_shark.png](shell_shark.png)
+
